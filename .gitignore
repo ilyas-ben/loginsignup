@@ -1,0 +1,9 @@
+ 
+*.exe
+ 
+*.bat
+ 
+.vscode/
+
+ 
+*.code-workspace
